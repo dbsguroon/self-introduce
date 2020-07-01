@@ -1,0 +1,32 @@
+body,
+ul,
+p,
+h1,
+h2,
+h3,
+dl,
+dd {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+h1,
+h2,
+h3 {
+    font-size: 100%;
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body {
+    background-color: #111;
+    color: #999;
+}
